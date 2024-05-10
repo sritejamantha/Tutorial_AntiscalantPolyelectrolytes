@@ -5,7 +5,7 @@ The colab notebook is part of the series of hands on tutorial workshop conducted
 ## <p align="center"><b>Colab Notebook Credits</b></p>
 
 **<span style="color: blue;">Caltech Team:</span>**
-> Dr. Sriteja Mantha  
+> Dr. Sriteja Mantha  & Alec Glisman
 > Prof. Zhen-Gang Wang research group  
 > Chemistry and Chemical Engineering Division  
 > Caltech  
