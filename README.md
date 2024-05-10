@@ -1,6 +1,6 @@
 # Tutorial_AntiscalantPolyelectrolytes
 
-![CI Workflow][Python application](https://github.com/sritejamantha/Tutorial_AntiscalantPolyelectrolytes/workflows/ci.yml/badge.svg?branch=main)
+![Actions][Python application](https://github.com/sritejamantha/Tutorial_AntiscalantPolyelectrolytes/workflows/ci.yml/badge.svg?branch=main)
 
 The colab notebook is part of the series of hands on tutorial workshop conducted by me (Sriteja Mantha) at Dow-Terneuzen, Netherlands
 
