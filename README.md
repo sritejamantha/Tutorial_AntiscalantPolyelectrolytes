@@ -5,19 +5,19 @@ The colab notebook is part of the series of hands on tutorial workshop conducted
 ## <p align="center"><b>Colab Notebook Credits</b></p>
 
 **<span style="color: blue;">Caltech Team:</span>**
-> Dr. Sriteja Mantha, Alec Glisman
-> Prof. Zhen-Gang Wang research group  
-> Chemistry and Chemical Engineering Division  
-> Caltech  
+- Dr. Sriteja Mantha, Alec Glisman
+- Prof. Zhen-Gang Wang research group  
+- Chemistry and Chemical Engineering Division  
+- Caltech  
 
 **<span style="color: blue;">Event:</span>**  
-> Tutorial session on the molecular models developed as part of Dow-Caltech UPI on Antiscalant Polyelectrolytes  
+- Tutorial session on the molecular models developed as part of Dow-Caltech UPI on Antiscalant Polyelectrolytes  
 
 **<span style="color: blue;">Venue:</span>**  
-> Dow-Terneuzen  
+- Dow-Terneuzen  
 
 **<span style="color: blue;">Date:</span>**  
-> January-16, 2024  
+- January-16, 2024  
 
 The notebook integrates python and shell scripts Alec Glisman and I developed as part of our currently ongoing Caltech-Dow collaborative research efforts on molecular modeling of Antiscalant Polyelectrolytes.
 
