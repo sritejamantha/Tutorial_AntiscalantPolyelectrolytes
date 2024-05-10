@@ -1,7 +1,5 @@
 # Tutorial_AntiscalantPolyelectrolytes
 
-![Actions](https://github.com/sritejamantha/Tutorial_AntiscalantPolyelectrolytes/actions/workflows/ci.yml/badge.svg?branch=main)
-
 The colab notebook is part of the series of hands on tutorial workshop conducted by me (Sriteja Mantha) at Dow-Terneuzen, Netherlands
 
 The notebook integrates python and shell scripts Alec Glisman and I developed as part of our currently ongoing Caltech-Dow collaborative research efforts on molecular modeling of Antiscalant Polyelectrolytes.
