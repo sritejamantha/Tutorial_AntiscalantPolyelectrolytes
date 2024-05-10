@@ -1,6 +1,26 @@
 # Tutorial_AntiscalantPolyelectrolytes
 
-The colab notebook is part of the series of hands on tutorial workshop conducted by me (Sriteja Mantha) at Dow-Terneuzen, Netherlands
+The colab notebook is part of the series of hands on tutorial workshop conducted by Sriteja Mantha at Dow-Terneuzen, Netherlands. @alecglisman contributed some of the scripts used to build the workshop 
+
+##<p align="center"><b>Colab Notebook Credits</b></p>
+
+<font color="blue">**Caltech Team:**</font>
+> Dr. Sriteja Mantha 
+
+>Prof. Zhen-Gang Wang research group
+
+>Chemistry and Chemical Engineering Division
+
+>Caltech
+        
+<font color="blue">**Event:**</font>  
+>Tutorial session on the molecular models developed as part of Dow-Caltech UPI on Antiscalant Polyelectrolytes
+
+<font color="blue">**Venue:**</font>
+>Dow-Terneuzen
+
+<font color="blue">**Date:**</font>   
+>January-16, 2024
 
 The notebook integrates python and shell scripts Alec Glisman and I developed as part of our currently ongoing Caltech-Dow collaborative research efforts on molecular modeling of Antiscalant Polyelectrolytes.
 
